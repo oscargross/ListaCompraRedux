@@ -1,5 +1,5 @@
 {
-  "name": "Lista de Compras",
+  "name": "d",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +11,7 @@
     "react-redux": "^7.2.4",
     "react-scripts": "3.4.3",
     "redux": "^4.1.1",
+    "redux-persist": "^6.0.0",
     "styled-components": "^5.2.0"
   },
   "scripts": {
